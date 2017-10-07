@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Carica il backup</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <link rel=stylesheet type='text/css' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        
+    </head>
+    <body>
+        <div>
+            <form>
+                <input id="upload-input" type="file">
+                <input id="upload-submit" type="button" value="Carica">
+                <p class="advertise">* Una volta caricato il backup, tutte le tue note verrano automaticamente cancellate. 
+                    Se non vuoi perderle fai un loro backup.</p>
+                <p class="advertise">** Non modificare il tuo backup se vuoi evitare possibili errori nel leggerlo</p>
+            </form>
+        </div>
+        
+        <script src="restore.js"></script>
+    </body>
+</html>
