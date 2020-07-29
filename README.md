@@ -8,3 +8,7 @@ Gestisci appunti sui tuoi siti preferiti in un'unica app, ovunque.
 
 Flash Clip permette di gestire una lista di note per ogni sito su cui si naviga, consentendo inoltre di copiarle nella propria clipboard, senza utilizzo di menu o CTRL+C, semplicemente cliccandoci sopra così da poterle usare velocemente all'occorrenza.
 In aggiunta è possibile fare un backup delle proprie note e ripristinarne uno vecchio, per consentire la massima portabilità e l'utilizzo su più dispositivi.
+
+## Demo
+
+![Demo](https://github.com/lgcolella/flash-clip/raw/master/repository/demo.gif "Demo")
